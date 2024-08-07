@@ -1,7 +1,7 @@
 import 'package:geocoding/geocoding.dart';
 import 'package:project/utils/widgets.dart';
 
-const String apiKey = "29a9abcb6adb5363c089915fb44e1e46";
+const String apiKey = "";
 
 const List<String> airQualityNames = [
   "Good",
